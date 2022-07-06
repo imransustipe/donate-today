@@ -93,3 +93,18 @@ hr{
         margin-right: 20px;
         padding: 15px;
     }
+    .foot{
+        font-size: 40px;
+        font-style: italic;
+        color: rgb(187, 6, 6);
+        text-align: center;
+    }
+    h3{
+        text-align: center;
+        color: aliceblue;
+    }
+    footer{
+        background-color: black;
+     
+
+    }
