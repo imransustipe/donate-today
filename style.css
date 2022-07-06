@@ -20,6 +20,7 @@ p{
     color: white;
     border-radius: 5px;
     margin-left: 42%;
+    margin-top: 10px;
 }
 #first-part{
     background-image: url(images/donation13.jpg);
@@ -54,8 +55,41 @@ h4{
     color: rgb(94, 7, 7);
     padding: 50px 50px;
     margin: 40px;
-    border-color: red;
+    border-style: solid;
+    border-color: rgb(94, 7, 7);
     border-radius: 7px;
     text-align: center;
     margin-left: 75px;  
 }
+hr{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.donate-plan{
+    margin-top: 100px;
+}
+.black-para{
+    color: black;
+    text-align: left;
+}
+.donate-plan-detail{
+    display: flex;
+}
+.food-for-family{
+    background-color: rgb(240, 218, 222);
+    margin-left: 35px;
+    margin-right: 10px;
+    padding: 15px;
+    }
+    .shelter-for-family{
+        background-color: rgb(186, 221, 229);
+        margin-left: 20px;
+        margin-right: 20px;
+        padding: 15px;
+    }
+    .Educaion-for-child{
+        background-color: rgb(220, 190, 245);
+        margin-left: 20px;
+        margin-right: 20px;
+        padding: 15px;
+    }
