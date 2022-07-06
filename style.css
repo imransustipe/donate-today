@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    font-family: 'Gentium Book Plus', serif;
+font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+p{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+    margin-left: 42%;
+}
+#first-part{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-bottom: 200px;
+    
+}
+.black-h1{
+    color: black;
+}
+h4{
+    text-align: center;
+}
+.donation-amount{
+    display: flex;
+}
+.donation-button{
+    text-decoration: none;
+    background-color: rgb(96, 139, 105);
+    color: white;
+    padding: 50px 50px;
+    margin: 40px;
+    border-radius: 7px;
+    text-align: center;
+    margin-left: 75px;
+}
+.donation-button-color{
+
+    text-decoration: none;
+    background-color: rgb(235, 188, 187);
+    color: rgb(94, 7, 7);
+    padding: 50px 50px;
+    margin: 40px;
+    border-color: red;
+    border-radius: 7px;
+    text-align: center;
+    margin-left: 75px;  
+}
